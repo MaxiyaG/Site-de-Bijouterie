@@ -18,6 +18,8 @@ J'ai développé toute la partie SGBD (MySQL) concernant les projets en méthode
 
 - About Us: https://youtu.be/VHLaf-Xo5wQ
 
+- Page admin( Le tableau pour la gestion des projets) : https://youtu.be/Q1Rpsuz-5sk
+
 ### Autre parties :
 
 - Shop oneShop : https://youtu.be/3FCLHE8XM2s
@@ -25,6 +27,8 @@ J'ai développé toute la partie SGBD (MySQL) concernant les projets en méthode
 - Page Shop : https://youtu.be/lQ907PmEk6Q
 
 - Panier : https://youtu.be/r9lo0Z4-G-E
+
+- Page admin (gestion des stocks) : https://youtu.be/eBms4cG72zE
 
 - Acceuil : https://youtu.be/sW1w3sBuuZU
 
